@@ -11,14 +11,14 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'src',
-        path: `${__dirname}\\src`,
+        path: `${__dirname}/src`,
       },
     },
     'gatsby-transformer-remark',
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
-        modulePath: `${__dirname}\\src\\cms\\cms.js`,
+        modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
     'gatsby-plugin-netlify',
