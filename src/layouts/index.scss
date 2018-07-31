@@ -1,0 +1,39 @@
+@charset 'utf8';
+
+$black: #3b3b3b;
+$white: #ffffff;
+$blue: #29388f;
+$blue-lighter: lighten($blue, 8%);
+$yellow: #f5ee31;
+$grey-light: #f1f0f0;
+
+$primary: $blue;
+$body-background-color: $grey-light;
+$body-size: 18px;
+$text: $black;
+$title-color: $primary;
+$subtitle-color: $blue-lighter;
+$border: $yellow;
+$family-sans-serif: 'Source Sans Pro', sans-serif;
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote {
+  font-family: 'Source Serif Pro', serif;
+}
+
+$navbar-height: 6.25rem;
+$navbar-item-img-max-height: 4rem;
+$navbar-item-hover-background-color: $grey-light;
+$hr-background-color: $primary;
+$section-padding: 2rem 1.5rem;
+$content-heading-color: $primary;
+$blockquote-background-color: $white;
+$footer-background-color: $black;
+
+@import '~bulma';
+@import '~bulma-carousel/dist/css/bulma-carousel';
