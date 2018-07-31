@@ -1,34 +1,53 @@
 import React from 'react'
+import Link from 'gatsby-link'
 
 const Event = props => (
   <div>
-    <h3 className="subtitle is-5 is-marginless">{props.event.title}</h3>
+    <Link to={props.to}>
+      <h3 className="subtitle is-5 is-marginless">{props.event.title}</h3>
+    </Link>
     <i>{props.event.date}</i>
-    <p>{props.event.description}</p>
+    <p>{props.event.location}</p>
   </div>
 )
 
-export default ({ data }) => (
-  <section className="section has-background-grey-light">
-    <div className="container">
-      <h2 className="title is-3 has-text-centered has-text-primary">
-        Upcoming Events
-      </h2>
-      <hr />
-      <Event
-        event={{
-          title: 'Title',
-          date: '06-30-2018',
-          description: 'Simple event description blah.',
-        }}
-      />
-      <Event
-        event={{
-          title: 'Event 2',
-          date: '08-30-2018',
-          description: 'Simple event description blah.',
-        }}
-      />
-    </div>
-  </section>
-)
+export default ({ events }) => {
+  return (
+    <section className="section has-background-grey-light">
+      <div className="container">
+        <h2 className="title is-3 has-text-centered has-text-primary">
+          Upcoming Events
+        </h2>
+        <hr />
+        {events.map(
+          ({
+            node: { frontmatter: event },
+            node: { id: key },
+            node: {
+              fields: { slug: to },
+            },
+          }) => {
+            console.log(to)
+            return <Event to={to} event={event} key={key} />
+          }
+        )}
+      </div>
+    </section>
+  )
+}
+
+export const query = graphql`
+  fragment EventPostsFragment on MarkdownRemarkEdge {
+    node {
+      id
+      fields {
+        slug
+      }
+      frontmatter {
+        title
+        date
+        location
+      }
+    }
+  }
+`

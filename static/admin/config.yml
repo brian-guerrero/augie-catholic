@@ -1,11 +1,22 @@
 backend:
-  name: github
+  name: git-gateway
   repo: brian-guerrero/augie-catholic
 
 media_folder: static/assets
 public_folder: assets
 
 collections:
+  - name: "events"
+    label: "Events"
+    folder: "src/pages/calendar"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template", name: "template", widget: "hidden", default: "event"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YY"}
+      - {label: "Location", name: "description", widget: "text"}
+      - {label: "Description", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
