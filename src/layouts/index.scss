@@ -1,5 +1,6 @@
 @charset 'utf8';
 
+// Initial Styles
 $black: #3b3b3b;
 $white: #ffffff;
 $blue: #29388f;
@@ -35,5 +36,29 @@ $content-heading-color: $primary;
 $blockquote-background-color: $white;
 $footer-background-color: $black;
 
+a .subtitle {
+  text-decoration: underline;
+}
+
+.pb-0 {
+  padding-bottom: 0 !important;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+// Imports
 @import '~bulma';
 @import '~bulma-carousel/dist/css/bulma-carousel';
+
+// Media Queries
+@include mobile() {
+  .section.for-tablet {
+    padding: 0;
+  }
+}
+
+.container.medium-width {
+  max-width: 800px;
+}
