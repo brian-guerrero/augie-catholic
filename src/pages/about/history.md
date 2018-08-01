@@ -2,7 +2,9 @@
 template: page
 title: History
 ---
-Augustana College was founded in 1860 within the Swedish-Lutheran tradition and in 1966 still had a strong Lutheran enrollment at 60% of the student body. But by 1982, only 30% of Augustana students belonged to the Lutheran congregation with an equal percentage of students belonging to the Catholic Church. 
+Augustana College was founded in 1860 within the Swedish-Lutheran tradition and in 1966 still had a strong Lutheran enrollment at 60% of the student body. 
+
+But by 1982, only 30% of Augustana students belonged to the Lutheran congregation with an equal percentage of students belonging to the Catholic Church. 
 
 So in 1983, the college made a bold decision to hire a full-time Catholic priest to be chaplain to the Catholic students on campus. 
 
