@@ -30,6 +30,7 @@ const Layout = ({ children, data }) => (
           href: '/favicon.ico',
         },
       ]}
+      htmlAttributes={{ lang: 'en-US' }}
     />
     <PageNavigation />
     {children()}
