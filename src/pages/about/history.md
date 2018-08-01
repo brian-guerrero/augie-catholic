@@ -12,4 +12,4 @@ For 35 years then, the administration of Augustana has sought to provide for the
 
 While the structure of Catholic Ministry has taken on different forms, the commitment of the college and the diocese in this partnership has endured for the good of students. 
 
-Today, Augustana Catholic Ministry operates independently and cooperatively on the college campus with a Catholic priest named Father Jeremy Freehill. He joined the campus community in 2016.
+Today, Augie Catholic Ministry operates independently and cooperatively on the college campus with a Catholic priest named Father Jeremy Freehill. He joined the campus community in 2016.
