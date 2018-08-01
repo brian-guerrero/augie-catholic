@@ -14,4 +14,4 @@ Farther Jeremy Freehill joined the Augustana Campus Community in 2016.
 
 He was ordained a priest of Jesus Christ on May 25, 2013 and began his priestly service within the Church at Saint Pius X Parish in Rock Island and Jordan Catholic School. 
 
-He also spent a number of year as chaplain of Alleman Catholic High School in Rock Island from 2014-2018.
+He also spent a number of years as chaplain of Alleman Catholic High School in Rock Island from 2014-2018.
