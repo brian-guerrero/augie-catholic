@@ -1,7 +1,8 @@
 ---
-title: Chaplain
 template: page
+title: Chaplain
 ---
+![Father Freehill](/assets/father_freehill.jpg)
 
 ### Father Jeremy Freehill
 
