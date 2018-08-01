@@ -25,6 +25,10 @@ const Layout = ({ children, data }) => (
           href:
             'https://fonts.googleapis.com/css?family=Source+Sans+Pro|Source+Serif+Pro:600',
         },
+        {
+          rel: 'favicon',
+          href: '/favicon.ico',
+        },
       ]}
     />
     <PageNavigation />

@@ -11,30 +11,27 @@ const Event = props => (
   </div>
 )
 
-export default ({ events }) => {
-  return (
-    <section className="section">
-      <div className="container">
-        <h2 className="title is-3 has-text-centered has-text-primary">
-          Upcoming Events
-        </h2>
-        <hr />
-        {events.map(
-          ({
-            node: { frontmatter: event },
-            node: { id: key },
-            node: {
-              fields: { slug: to },
-            },
-          }) => {
-            console.log(to)
-            return <Event to={to} event={event} key={key} />
-          }
-        )}
-      </div>
-    </section>
-  )
-}
+export default ({ events }) => (
+  <section className="section">
+    <div className="container">
+      <h2 className="title is-3 has-text-centered has-text-primary">
+        Upcoming Events
+      </h2>
+      <hr />
+      {events.map(
+        ({
+          node: { frontmatter: event },
+          node: { id: key },
+          node: {
+            fields: { slug: to },
+          },
+        }) => (
+          <Event to={to} event={event} key={key} />
+        )
+      )}
+    </div>
+  </section>
+)
 
 export const query = graphql`
   fragment EventPostsFragment on MarkdownRemarkEdge {

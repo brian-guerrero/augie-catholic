@@ -45,9 +45,36 @@ export default class PageNavigation extends Component {
               <Link to="/" className="navbar-item">
                 Home
               </Link>
-              <Link to="/about/" className="navbar-item">
-                About
-              </Link>
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div className="navbar-link">About</div>
+                <div className="navbar-dropdown">
+                  <a className="navbar-item">Who We Are?</a>
+                  <Link to="/about/history/" className="navbar-item">
+                    History
+                  </Link>
+                  <Link to="/about/chaplain/" className="navbar-item">
+                    Chaplain
+                  </Link>
+                  <hr className="navbar-divider" />
+                  <div className="navbar-item">
+                    <strong>Contact Us</strong>
+                  </div>
+                  <a
+                    href="mailto:jeremyfreehill@augustana.edu"
+                    className="navbar-item"
+                  >
+                    jeremyfreehill@augustana.edu
+                  </a>
+                  <a href="tel:+13097947272" className="navbar-item">
+                    (309) 794-7272
+                  </a>
+                  <div className="navbar-item">
+                    820 38th St.
+                    <br />
+                    Rock Island, IL 61201
+                  </div>
+                </div>
+              </div>
               <Link to="/calendar/" className="navbar-item">
                 Calendar
               </Link>
