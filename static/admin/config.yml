@@ -34,7 +34,14 @@ collections:
           - {label: "Template", name: "template", widget: "hidden", default: "page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-    - file: "src/pages/services/index.md"
+    - file: "src/pages/prayer/about-adoration.md"
+      label: "About Adoration"
+      name: "about-adoration"
+      fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+    - file: "src/pages/service/index.md"
       label: "Services"
       name: "services"
       fields:

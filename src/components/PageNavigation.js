@@ -19,12 +19,12 @@ export default class PageNavigation extends Component {
       <nav className="navbar is-primary">
         <div className="container">
           <div className="navbar-brand">
-            <div className="navbar-item">
+            <Link to="/" className="navbar-item">
               <img
                 src="/assets/images/augie_catholic_logo.png"
                 alt="Augie Catholic"
               />
-            </div>
+            </Link>
             <div
               className={
                 'navbar-burger burger ' +
@@ -42,9 +42,6 @@ export default class PageNavigation extends Component {
             className={'navbar-menu ' + (this.state.toggled ? 'is-active' : '')}
           >
             <div className="navbar-end">
-              <Link to="/" className="navbar-item">
-                Home
-              </Link>
               <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-link">About</div>
                 <div className="navbar-dropdown">
@@ -75,11 +72,29 @@ export default class PageNavigation extends Component {
                   </div>
                 </div>
               </div>
+              <div className="navbar-item has-dropdown is-hoverable">
+                <div className="navbar-link">Prayer</div>
+                <div className="navbar-dropdown">
+                  <div className="navbar-item">
+                    <strong>Mass Times</strong>
+                  </div>
+                  <div className="navbar-item">Sunday: 9:00PM</div>
+                  <hr className="navbar-divider" />
+                  <div className="navbar-item">
+                    <strong>Eucharistic Adoration</strong>
+                  </div>
+                  <div className="navbar-item">Tuesday: 9:00PM - 9:30PM</div>
+                  <hr className="navbar-divider" />
+                  <Link to="/prayer/about-adoration/" className="navbar-item">
+                    About Adoration
+                  </Link>
+                </div>
+              </div>
               <Link to="/calendar/" className="navbar-item">
                 Calendar
               </Link>
-              <Link to="/services/" className="navbar-item">
-                Services
+              <Link to="/service/" className="navbar-item">
+                Service
               </Link>
             </div>
           </div>
