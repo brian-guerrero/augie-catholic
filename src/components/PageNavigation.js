@@ -89,7 +89,16 @@ export default class PageNavigation extends Component {
                   </div>
                 </div>
               </div>
-              <div className="navbar-item has-dropdown is-hoverable">
+              <Link
+                activeClassName="is-active"
+                exact
+                onClick="this.hideNav()"
+                to="/prayer/"
+                className="navbar-item"
+              >
+                Prayer
+              </Link>
+              {/* <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-link">Prayer</div>
                 <div className="navbar-dropdown">
                   <div className="navbar-item">
@@ -112,7 +121,7 @@ export default class PageNavigation extends Component {
                     About Adoration
                   </Link>
                 </div>
-              </div>
+              </div> */}
               <Link
                 activeClassName="is-active"
                 exact
