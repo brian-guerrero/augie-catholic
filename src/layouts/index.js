@@ -12,7 +12,14 @@ const Layout = ({ children, data }) => (
     <Helmet
       title={data.site.siteMetadata.title}
       meta={[
-        { name: 'description', content: data.site.siteMetadata.description },
+        {
+          name: 'description',
+          content: data.site.siteMetadata.description,
+        },
+        {
+          name: 'apple-mobile-web-app-status-bar-style',
+          content: '#29388f',
+        },
       ]}
       link={[
         {
@@ -28,6 +35,11 @@ const Layout = ({ children, data }) => (
         {
           rel: 'favicon',
           href: '/favicon.ico',
+        },
+        {
+          rel: 'apple-touch-icon',
+          sizes: '152x152',
+          href: '/icon.png',
         },
       ]}
       htmlAttributes={{ lang: 'en-US' }}
