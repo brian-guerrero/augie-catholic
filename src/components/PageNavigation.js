@@ -8,10 +8,15 @@ export default class PageNavigation extends Component {
       toggled: false,
     }
     this.toggleNav = this.toggleNav.bind(this)
+    this.hideNav = this.hideNav.bind(this)
   }
 
   toggleNav() {
     this.setState(prevState => ({ toggled: !prevState.toggled }))
+  }
+
+  hideNav() {
+    this.setState(() => ({ toggled: false }))
   }
 
   render() {
@@ -19,7 +24,7 @@ export default class PageNavigation extends Component {
       <nav className="navbar is-primary">
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item">
+            <Link onClick="this.hideNav()" to="/" className="navbar-item">
               <img
                 src="/assets/images/augie_catholic_logo.png"
                 alt="Augie Catholic"
@@ -46,10 +51,22 @@ export default class PageNavigation extends Component {
                 <div className="navbar-link">About</div>
                 <div className="navbar-dropdown">
                   <a className="navbar-item">Who We Are?</a>
-                  <Link to="/about/history/" className="navbar-item">
+                  <Link
+                    activeClassName="is-active"
+                    exact
+                    onClick="this.hideNav()"
+                    to="/about/history/"
+                    className="navbar-item"
+                  >
                     History
                   </Link>
-                  <Link to="/about/chaplain/" className="navbar-item">
+                  <Link
+                    activeClassName="is-active"
+                    exact
+                    onClick="this.hideNav()"
+                    to="/about/chaplain/"
+                    className="navbar-item"
+                  >
                     Chaplain
                   </Link>
                   <hr className="navbar-divider" />
@@ -85,15 +102,33 @@ export default class PageNavigation extends Component {
                   </div>
                   <div className="navbar-item">Tuesday: 9:00PM - 9:30PM</div>
                   <hr className="navbar-divider" />
-                  <Link to="/prayer/about-adoration/" className="navbar-item">
+                  <Link
+                    activeClassName="is-active"
+                    exact
+                    onClick="this.hideNav()"
+                    to="/prayer/about-adoration/"
+                    className="navbar-item"
+                  >
                     About Adoration
                   </Link>
                 </div>
               </div>
-              <Link to="/calendar/" className="navbar-item">
+              <Link
+                activeClassName="is-active"
+                exact
+                onClick="this.hideNav()"
+                to="/calendar/"
+                className="navbar-item"
+              >
                 Calendar
               </Link>
-              <Link to="/service/" className="navbar-item">
+              <Link
+                activeClassName="is-active"
+                exact
+                onClick="this.hideNav()"
+                to="/service/"
+                className="navbar-item"
+              >
                 Service
               </Link>
             </div>
