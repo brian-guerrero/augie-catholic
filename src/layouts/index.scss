@@ -37,9 +37,21 @@ $hr-background-color: $primary;
 $section-padding: 2rem 1.5rem;
 $content-heading-color: $primary;
 $blockquote-background-color: $white;
-//$content-blockquote-background-color: transparent;
-//$content-blockquote-border-left: none;
 $footer-background-color: $black;
+$carousel-title-background: rgba($white, 0.9);
+$carousel-nav-color: $blue-lighter;
+
+.carousel .carousel-container .carousel-item .title {
+  color: $blue-lighter;
+}
+
+.carousel-nav {
+  &-left,
+  &-right {
+    color: $blue-lightest;
+    cursor: pointer;
+  }
+}
 
 a .subtitle {
   text-decoration: underline;
