@@ -2,7 +2,7 @@
 template: page
 title: Mass
 ---
-![Join us for mass!](/assets/mass.jpg)
+![Join us for mass!](/assets/mass2.jpg)
 
 ### Mass Times
 
