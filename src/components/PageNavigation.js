@@ -102,6 +102,15 @@ export default class PageNavigation extends Component {
                 activeClassName="is-active"
                 exact
                 onClick={this.hideNav}
+                to="/sacraments/"
+                className="navbar-item"
+              >
+                Sacraments
+              </Link>
+              <Link
+                activeClassName="is-active"
+                exact
+                onClick={this.hideNav}
                 to="/service/"
                 className="navbar-item"
               >
