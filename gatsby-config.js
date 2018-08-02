@@ -22,5 +22,18 @@ module.exports = {
       },
     },
     'gatsby-plugin-netlify',
+    {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Augie Catholic',
+        short_name: 'ACatholic',
+        start_url: '/',
+        background_color: '#ffffff',
+        theme_color: '#29388f',
+        display: 'fullscreen',
+        icon: 'static/favicon.png',
+      },
+    },
+    'gatsby-plugin-offline',
   ],
 }
