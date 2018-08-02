@@ -34,14 +34,14 @@ collections:
           - {label: "Template", name: "template", widget: "hidden", default: "page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-    - file: "src/pages/prayer/index.md"
-      label: "Prayer"
-      name: "prayer"
+    - file: "src/pages/mass/index.md"
+      label: "Mass"
+      name: "mass"
       fields:
           - {label: "Template", name: "template", widget: "hidden", default: "page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-    - file: "src/pages/prayer/about-adoration.md"
+    - file: "src/pages/mass/about-adoration.md"
       label: "About Adoration"
       name: "about-adoration"
       fields:

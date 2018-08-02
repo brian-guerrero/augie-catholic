@@ -18,6 +18,8 @@ $subtitle-color: $blue-lighter;
 $border: $yellow;
 $family-sans-serif: 'Source Sans Pro', sans-serif;
 
+$link-hover: $blue-lightest;
+
 h1,
 h2,
 h3,
@@ -35,6 +37,8 @@ $hr-background-color: $primary;
 $section-padding: 2rem 1.5rem;
 $content-heading-color: $primary;
 $blockquote-background-color: $white;
+//$content-blockquote-background-color: transparent;
+//$content-blockquote-border-left: none;
 $footer-background-color: $black;
 
 a .subtitle {
@@ -50,6 +54,12 @@ a .subtitle {
 
 .mb-1 {
   margin-bottom: 1rem;
+}
+
+.content {
+  blockquote {
+    text-align: center;
+  }
 }
 
 // Imports
