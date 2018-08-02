@@ -1,14 +1,22 @@
 ---
-title: Services
 template: page
+title: Services
 ---
+### Groups
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore modi sint asperiores eligendi quisquam. Deleniti eligendi reiciendis similique provident quasi. Nostrum, quod! Voluptas, soluta distinctio. Rem dolor veritatis tempora libero.
+Knights of Columbus
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore modi sint asperiores eligendi quisquam. Deleniti eligendi reiciendis similique provident quasi. Nostrum, quod! Voluptas, soluta distinctio. Rem dolor veritatis tempora libero.
+Saint Vincent de Paul
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore modi sint asperiores eligendi quisquam. Deleniti eligendi reiciendis similique provident quasi. Nostrum, quod! Voluptas, soluta distinctio. Rem dolor veritatis tempora libero.
+Students for Life
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore modi sint asperiores eligendi quisquam. Deleniti eligendi reiciendis similique provident quasi. Nostrum, quod! Voluptas, soluta distinctio. Rem dolor veritatis tempora libero.
+### Chicago Mission Trips
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore modi sint asperiores eligendi quisquam. Deleniti eligendi reiciendis similique provident quasi. Nostrum, quod! Voluptas, soluta distinctio. Rem dolor veritatis tempora libero.
+![Chicago Mission Trip](/assets/chicago_mission.jpg)
+
+### Appalachia Spring Break Trip
+
+![Appalachia Spring Break Trip](/assets/appalachia_trip.jpg)
+
+> “God’s love does not distinguish between the infant in the mother’s womb or the child or the youth or the adult or the older person. In each one God sees His image and likeness."
+> Pope Benedict XVI
