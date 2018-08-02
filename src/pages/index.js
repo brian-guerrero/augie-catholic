@@ -14,15 +14,15 @@ const IndexPage = ({
           <Carousel>
             <CarouselItem
               src="/assets/images/carousel/carousel_1.jpg"
-              title="Example text"
+              title="You Belong Here, and You Matter."
             />
             <CarouselItem
               src="/assets/images/carousel/carousel_2.jpg"
-              title="Example text"
+              title="The Source and Summit of our Christian Life."
             />
             <CarouselItem
               src="/assets/images/carousel/carousel_3.jpg"
-              title="Example text"
+              title="Put Love into Action."
             />
           </Carousel>
         </div>

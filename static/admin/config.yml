@@ -20,6 +20,13 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+    - file: "src/pages/about/who-we-are.md"
+      label: "Who We Are"
+      name: "who-we-are"
+      fields:
+          - {label: "Template", name: "template", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
     - file: "src/pages/about/history.md"
       label: "History"
       name: "history"

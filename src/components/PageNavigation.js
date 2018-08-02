@@ -50,7 +50,15 @@ export default class PageNavigation extends Component {
               <div className="navbar-item has-dropdown is-hoverable">
                 <div className="navbar-link">About</div>
                 <div className="navbar-dropdown">
-                  <a className="navbar-item">Who We Are?</a>
+                  <Link
+                    activeClassName="is-active"
+                    exact
+                    onClick={this.hideNav}
+                    to="/about/who-we-are/"
+                    className="navbar-item"
+                  >
+                    Who We Are
+                  </Link>
                   <Link
                     activeClassName="is-active"
                     exact
