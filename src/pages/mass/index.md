@@ -13,4 +13,4 @@ Tuesday: 9:00PM - 9:30PM
 
 [About Adoration][1]
 
-[1]: /about-adoration/
+[1]: /mass/about-adoration/
