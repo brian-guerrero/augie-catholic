@@ -24,7 +24,7 @@ export default class PageNavigation extends Component {
       <nav className="navbar is-primary">
         <div className="container">
           <div className="navbar-brand">
-            <Link onClick="this.hideNav()" to="/" className="navbar-item">
+            <Link onClick={this.hideNav} to="/" className="navbar-item">
               <img
                 src="/assets/images/augie_catholic_logo.png"
                 alt="Augie Catholic"
@@ -54,7 +54,7 @@ export default class PageNavigation extends Component {
                   <Link
                     activeClassName="is-active"
                     exact
-                    onClick="this.hideNav()"
+                    onClick={this.hideNav}
                     to="/about/history/"
                     className="navbar-item"
                   >
@@ -63,7 +63,7 @@ export default class PageNavigation extends Component {
                   <Link
                     activeClassName="is-active"
                     exact
-                    onClick="this.hideNav()"
+                    onClick={this.hideNav}
                     to="/about/chaplain/"
                     className="navbar-item"
                   >
@@ -92,7 +92,7 @@ export default class PageNavigation extends Component {
               <Link
                 activeClassName="is-active"
                 exact
-                onClick="this.hideNav()"
+                onClick={this.hideNav}
                 to="/prayer/"
                 className="navbar-item"
               >
@@ -114,7 +114,7 @@ export default class PageNavigation extends Component {
                   <Link
                     activeClassName="is-active"
                     exact
-                    onClick="this.hideNav()"
+                    onClick={this.hideNav}
                     to="/prayer/about-adoration/"
                     className="navbar-item"
                   >
@@ -125,7 +125,7 @@ export default class PageNavigation extends Component {
               <Link
                 activeClassName="is-active"
                 exact
-                onClick="this.hideNav()"
+                onClick={this.hideNav}
                 to="/calendar/"
                 className="navbar-item"
               >
@@ -134,7 +134,7 @@ export default class PageNavigation extends Component {
               <Link
                 activeClassName="is-active"
                 exact
-                onClick="this.hideNav()"
+                onClick={this.hideNav}
                 to="/service/"
                 className="navbar-item"
               >
