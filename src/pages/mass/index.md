@@ -7,7 +7,7 @@ title: Mass
 
 Sunday: 9:00PM
 
-#### Eucharistic Adoration
+### Eucharistic Adoration
 
 Tuesday: 9:00PM - 9:30PM
 
