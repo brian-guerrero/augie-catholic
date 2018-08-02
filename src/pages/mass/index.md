@@ -2,6 +2,7 @@
 template: page
 title: Mass
 ---
+![Join us for mass!](/assets/mass.jpg)
 
 ### Mass Times
 
@@ -11,6 +12,4 @@ Sunday: 9:00PM
 
 Tuesday: 9:00PM - 9:30PM
 
-[About Adoration][1]
-
-[1]: /mass/about-adoration/
+[About Adoration](/mass/about-adoration/)
