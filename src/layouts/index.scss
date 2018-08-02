@@ -41,18 +41,6 @@ $footer-background-color: $black;
 $carousel-title-background: rgba($white, 0.9);
 $carousel-nav-color: $blue-lighter;
 
-.carousel .carousel-container .carousel-item .title {
-  color: $blue-lighter;
-}
-
-.carousel-nav {
-  &-left,
-  &-right {
-    color: $blue-lightest;
-    cursor: pointer;
-  }
-}
-
 a .subtitle {
   text-decoration: underline;
   &:hover {
@@ -77,6 +65,20 @@ a .subtitle {
 // Imports
 @import '~bulma';
 @import '~bulma-carousel/dist/css/bulma-carousel';
+
+.carousel .carousel-container .carousel-item .title {
+  color: $blue-lighter;
+  font-size: 1.1rem;
+  padding: 1.25rem;
+}
+
+.carousel-nav {
+  &-left,
+  &-right {
+    color: $blue-lightest;
+    cursor: pointer;
+  }
+}
 
 // Media Queries
 @include mobile() {
