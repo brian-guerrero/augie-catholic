@@ -8,6 +8,10 @@ title: Mass
 
 Sunday: 9:00PM
 
+Tuesdays: 5:00PM
+
+Ascension Chapel of Founder's Hall
+
 ### Eucharistic Adoration
 
 Tuesday: 9:00PM - 9:30PM
