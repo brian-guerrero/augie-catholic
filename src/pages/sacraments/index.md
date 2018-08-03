@@ -20,6 +20,8 @@ Room 112 of Founder's Hall
 
 Room 112 of Founder's Hall
 
+
+
 #### RCIA (Rite of Christian Initiation for Adults)
 
 RCIA is a process for non-Catholics who would like to become Catholic, Catholics who would like to be confirmed, or anyone who would merely like to learn more about the Catholic faith.
