@@ -6,13 +6,13 @@ title: Holy Mass
 
 ### Mass Times
 
-**Sundays**: 9:00PM
+Sundays: 9:00PM
 
-**Tuesdays**: 5:00PM
+Tuesdays: 5:00PM
 
 Ascension Chapel of Founder's Hall
 
-### **Sacred Music Ministry**
+### Sacred Music Ministry
 
 Emily Christensen is our Sacred Music Director. It is her role to coordinate the music each week for Mass and to direct the choir. 
 
