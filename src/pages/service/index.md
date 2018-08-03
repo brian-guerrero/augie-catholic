@@ -17,7 +17,7 @@ Knights of Columbus
 
 Students for Life
 
-“God’s love does not distinguish between the infant in the mother’s womb or the child or the youth or the adult or the older person. In each one God sees His image and likeness."
+
 
 > “God’s love does not distinguish between the infant in the mother’s womb or the child or the youth or the adult or the older person. In each one God sees His image and likeness."
 >
