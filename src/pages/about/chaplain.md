@@ -6,7 +6,7 @@ title: Chaplain
 
 ### Father Jeremy Freehill
 
-##### Catholic Chaplain of Augustana College
+##### Augie Catholic Chaplain 
 
 Farther Jeremy Freehill joined the Augustana Campus Community in 2016.
 
