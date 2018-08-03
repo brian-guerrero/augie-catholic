@@ -21,7 +21,9 @@ If you are interested in being a part of our choir with your voice or an instrum
 
 ### Eucharistic Adoration w/Rosary
 
-**Tuesdays: **9:00PM-9:30PM
+**Tuesdays:** 
+
+9:00PM-9:30PM
 
 Brief Chanted Night Prayer to Follow
 
