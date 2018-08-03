@@ -6,15 +6,15 @@ title: Mass
 
 ### Mass Times
 
-Sunday: 9:00PM
+Sundays: 9:00PM
 
-Tuesday: 5:00PM
+Tuesdays: 5:00PM
 
 Ascension Chapel of Founder's Hall
 
 ### Eucharistic Adoration
 
-Tuesday: 9:00PM - 9:30PM
+Tuesdays: 9:00PM - 9:30PM
 
 Brief Chanted Night Prayer to Follow
 
