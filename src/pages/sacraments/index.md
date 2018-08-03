@@ -17,7 +17,7 @@ Room 112 of Founder's Hall
 
 **Thursdays:** 
 
-10:00-12:00PM
+10:00AM-12:00PM
 
 Room 112 of Founder's Hall
 
