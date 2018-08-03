@@ -18,6 +18,4 @@ title: Service
 
 Knights of Columbus
 
-Saint Vincent de Paul
-
 Students for Life
