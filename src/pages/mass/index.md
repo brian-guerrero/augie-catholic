@@ -1,6 +1,7 @@
 ---
 template: page
 title: Holy Mass
+centerImages: true
 ---
 ![Join us for mass!](/assets/mass.jpg)
 
