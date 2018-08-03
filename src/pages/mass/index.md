@@ -1,6 +1,6 @@
 ---
 template: page
-title: Mass
+title: Holy Mass
 ---
 ![Join us for mass!](/assets/mass.jpg)
 
