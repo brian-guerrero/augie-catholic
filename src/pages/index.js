@@ -41,6 +41,15 @@ const IndexPage = ({
           </div>
         </div>
       </section>
+      <section className="section">
+        <div className="container has-text-centered">
+          <h3 className="title">Text Alerts</h3>
+          <strong>
+            Text Augie to 84576, and you will receive text alerts about upcoming
+            Augie Catholic events on campus.
+          </strong>
+        </div>
+      </section>
       <UpcomingEvents events={events} />
     </div>
   )
