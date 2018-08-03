@@ -26,3 +26,10 @@ If you are interested in being a part of our choir with your voice or an instrum
 Brief Chanted Night Prayer to Follow
 
 [About Adoration](/mass/about-adoration/)
+
+> The Eucharist must become the centre of our lives.
+>
+> \
+>
+>
+> Pope Benedict XVI
