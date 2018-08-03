@@ -16,4 +16,6 @@ Today, Augie Catholic Ministry operates independently and collaboratively on the
 
 He joined the campus community in 2016.
 
-> It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you. Pope John Paul II
+> It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you. 
+>
+> Pope John Paul II
