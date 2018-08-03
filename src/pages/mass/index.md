@@ -7,7 +7,7 @@ centerImages: true
 
 ### Mass Times
 
-**Sunday: **9:00Pm
+**Sundays:** 9:00PM
 
 **Tuesday:** 5:00PM
 
