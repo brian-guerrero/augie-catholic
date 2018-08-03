@@ -9,7 +9,7 @@ centerImages: true
 
 **Sundays:** 9:00PM
 
-**Tuesday:** 5:00PM
+**Tuesdays:** 5:00PM
 
 Ascension Chapel of Founder's Hall
 
