@@ -14,7 +14,7 @@ title: Sacraments
 
 Room 112 of Founder's Hall 
 
-**Thursdays  **
+**Thursdays**
 
 10:00AM-12:00PM
 
