@@ -8,13 +8,13 @@ title: Sacraments
 
 #### Sacrament of Reconciliation
 
-Sundays
+**Sundays**
 
 8-8:45 p.m.
 
 Room 112 of Founder's Hall 
 
-Thursdays  
+**Thursdays  **
 
 10:00AM-12:00PM
 
