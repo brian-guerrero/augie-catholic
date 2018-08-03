@@ -4,7 +4,7 @@ title: Who We Are?
 ---
 ![null](/assets/appalachia_trip.jpg)
 
-**Welcome **
+**Welcome**
 
 No man is an island. Each individual person inherently seeks to belong to another. We see this truth in a couple heading out on their first date, in a young man excited to join his college’s football or baseball team, and in the college professor walking up to the podium for the first time to teach his or her first class, as a member of an academic department. 
 
