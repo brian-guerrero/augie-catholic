@@ -12,7 +12,7 @@ Tuesdays: 5:00PM
 
 Ascension Chapel of Founder's Hall
 
-### Eucharistic Adoration
+### Eucharistic Adoration w/Rosary
 
 Tuesdays: 9:00PM - 9:30PM
 
