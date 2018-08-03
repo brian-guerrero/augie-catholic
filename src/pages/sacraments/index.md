@@ -10,13 +10,13 @@ title: Sacraments
 
 Sundays
 
-8-8:45 p.m. 
+8-8:45 p.m.
+
+Room 112 of Founder's Hall 
 
 Thursdays  
 
-During Office Hours
-
-10:00-12:00PM
+10:00AM-12:00PM
 
 Room 112 of Founder's Hall
 
