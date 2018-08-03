@@ -7,9 +7,9 @@ centerImages: true
 
 ### Mass Times
 
-Sundays-9:00PM
+**Sundays**-9:00PM
 
-Tuesdays-5:00PM
+**Tuesdays**-5:00PM
 
 Ascension Chapel of Founder's Hall
 
@@ -28,8 +28,5 @@ Brief Chanted Night Prayer to Follow
 [About Adoration](/mass/about-adoration/)
 
 > The Eucharist must become the centre of our lives.
->
-> \
->
 >
 > Pope Benedict XVI
