@@ -15,6 +15,8 @@ collections:
       - {label: "Template", name: "template", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YYYY"}
+      - {label: "Start Time", name: "startTime", widget: "text", default: ""}
+      - {label: "Start Time", name: "endTime", widget: "text", default: ""}
       - {label: "Location", name: "location", widget: "text"}
       - {label: "Description", name: "body", widget: "markdown"}
   - name: "pages"
