@@ -6,9 +6,9 @@ title: Mass
 
 ### Mass Times
 
-Sundays: 9:00PM
+Sunday: 9:00PM
 
-Tuesdays: 5:00PM
+Tuesday: 5:00PM
 
 Ascension Chapel of Founder's Hall
 
