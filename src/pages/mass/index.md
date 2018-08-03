@@ -7,9 +7,9 @@ centerImages: true
 
 ### Mass Times
 
-**Sundays: **9:00PM
+**Sundays:** 9:00PM
 
-**Tuesdays: **5:00PM
+**Tuesday:** 5:00PM
 
 Ascension Chapel of Founder's Hall
 
@@ -21,7 +21,7 @@ If you are interested in being a part of our choir with your voice or an instrum
 
 ### Eucharistic Adoration w/Rosary
 
-**Tuesdays: **9:00PM - 9:30PM
+**Tuesdays: 9:00-9:30PM**
 
 Brief Chanted Night Prayer to Follow
 
