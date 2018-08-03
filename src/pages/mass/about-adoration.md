@@ -8,4 +8,6 @@ title: About Adoration
 >
 > Saint Mother Teresa of Calcutta
 
-Every Tuesday we gather for prayer in front of the Blessed Sacrament from 9:00-9:30PM with the Recitation of the Rosary. It is followed by a brief chanted night prayer service.
+**Every Tuesday** we gather for prayer in front of the Blessed Sacrament from 9:00-9:30PM with the Recitation of the Rosary. It is followed by a brief chanted night prayer service.
+
+_Brief Chanted Night Prayer to Follow_
