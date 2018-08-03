@@ -4,7 +4,7 @@ title: About Adoration
 ---
 ![Adoration in Ascension Chapel](/assets/img_3163.jpg)
 
-**Every Tuesday** we gather for prayer in front of the Blessed Sacrament from 9:00-9:30PM with the Recitation of the Rosary.
+Every Tuesday we gather for prayer in front of the Blessed Sacrament from 9:00-9:30PM with the Recitation of the Rosary.
 
 It is followed by a brief chanted night prayer service.
 
