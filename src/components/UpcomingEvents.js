@@ -6,7 +6,9 @@ const Event = props => (
     <Link to={props.to}>
       <h3 className="subtitle is-5 is-marginless">{props.event.title}</h3>
     </Link>
-    <i>{props.event.date}</i>
+    <i>
+      {props.event.date} &mdash; {props.event.startTime} -{props.event.endTime}
+    </i>
     <p>{props.event.location}</p>
   </div>
 )
@@ -43,6 +45,8 @@ export const query = graphql`
       frontmatter {
         title
         date
+        startTime
+        endTime
         location
       }
     }
