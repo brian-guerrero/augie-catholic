@@ -8,7 +8,7 @@ Augustana College was founded in 1860 within the Swedish-Lutheran tradition and 
 
 But by 1982, only 30% of Augustana students belonged to the Lutheran congregation with an equal percentage of students belonging to the Catholic Church.
 
-So in 1983, the college made a bold decision to hire a full-time Roman Catholic priest to be chaplain to the Catholic students on campus.
+So in 1983, the college made a decision to hire a full-time Roman Catholic priest to be chaplain to the Catholic students on campus.
 
 For 35 years then, the administration of Augustana has sought to provide for the spiritual needs of Catholic students directly on campus in partnership with the Catholic Diocese of Peoria, IL. 
 
