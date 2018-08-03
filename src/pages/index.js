@@ -32,10 +32,11 @@ const IndexPage = ({
           <div className="content">
             <p className="has-text-centered is-size-5">
               "He calls man to seek him, to know him, to love him with all his
-              strength. He calls together all men, scattered and divided by sin,
-              into the unity of his family, the Church."
+              strength. He calls together all men,
+              <br /> scattered and divided by sin, into the unity of his family,
+              the Church."
               <br />
-              <i>CATECHISM OF THE CATHOLIC CHURCH PARA. 1</i>
+              <i>CATECHISM OF THE CATHOLIC CHURCH</i>
             </p>
           </div>
         </div>
