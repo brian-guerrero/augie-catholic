@@ -26,4 +26,4 @@ RCIA is a process for non-Catholics who would like to become Catholic, Catholics
 
 This time of preparation is focused on helping you to know, love, and serve Jesus Christ within the Catholic Church.
 
-Wherever you are in your faith journey, we would love for you to join us in learning more about Catholicism.  For more information, please email Father Jeremy Freehill at jeremyfreehill@augustana.edu.
+Wherever you are in your faith journey, we would love for you to join us in learning more about Catholicism.  For more information, please email Father Jeremy at jeremyfreehill@augustana.edu.
