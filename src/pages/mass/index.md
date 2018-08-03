@@ -6,7 +6,7 @@ title: Mass
 
 ### Mass Times
 
-Sunday: 9:00PM
+Sundays: 9:00PM
 
 Tuesdays: 5:00PM
 
