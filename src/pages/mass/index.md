@@ -12,6 +12,12 @@ title: Holy Mass
 
 Ascension Chapel of Founder's Hall
 
+### **Sacred Music Ministry**
+
+Emily Christensen is our Sacred Music Director. It is her role to coordinate the music each week for Mass and to direct the choir. 
+
+If you are interested in being a part of our choir with your voice or an instrument, I invite you to contact Emily via email at emilychristensen16@augustana.edu.
+
 ### Eucharistic Adoration w/Rosary
 
 **Tuesdays**: 9:00PM - 9:30PM
