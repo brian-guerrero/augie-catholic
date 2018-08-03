@@ -16,4 +16,6 @@ Ascension Chapel of Founder's Hall
 
 Tuesday: 9:00PM - 9:30PM
 
+Brief Chanted Night Prayer to Follow
+
 [About Adoration](/mass/about-adoration/)
