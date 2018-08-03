@@ -2,7 +2,7 @@
 template: page
 title: History
 ---
-![](/assets/father_wheeler.jpg)
+![Pictured: Father Jim Wheeler OFM--Augustana Catholic Chaplain from 1988-1995](/assets/father_wheeler.jpg)
 
 Augustana College was founded in 1860 within the Swedish-Lutheran tradition and in 1966 still had a Lutheran enrollment at 60% of the student body. 
 
