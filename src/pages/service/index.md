@@ -1,7 +1,9 @@
 ---
 template: page
 title: Service
+centerImages: false
 ---
+
 ### Chicago Mission Trips
 
 ![Chicago Mission Trip](/assets/chicago_mission.jpg)
