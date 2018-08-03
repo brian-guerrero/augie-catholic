@@ -14,8 +14,8 @@ collections:
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YY"}
-      - {label: "Location", name: "description", widget: "text"}
+      - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YYYY"}
+      - {label: "Location", name: "location", widget: "text"}
       - {label: "Description", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"

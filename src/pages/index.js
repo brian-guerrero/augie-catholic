@@ -59,9 +59,23 @@ export default IndexPage
 
 export const query = graphql`
   query EventsQuery {
-    allMarkdownRemark(filter: { frontmatter: { template: { eq: "event" } } }) {
+    allMarkdownRemark(
+      limit: 10
+      sort: { fields: [frontmatter___date], order: ASC }
+      filter: { frontmatter: { template: { eq: "event" } } }
+    ) {
       edges {
-        ...EventPostsFragment
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            date
+            location
+          }
+        }
       }
     }
   }
