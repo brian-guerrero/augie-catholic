@@ -13,7 +13,7 @@ centerImages: true
 
 Ascension Chapel of Founder's Hall
 
-If you are interested in being a lector, please email Father Jeremy at jeremyfreehill@augustana.edu.
+If you are interested in being a lector or helping to set-up for Mass, please email Father Jeremy at jeremyfreehill@augustana.edu.
 
 ### Sacred Music Ministry
 
