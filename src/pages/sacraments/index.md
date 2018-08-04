@@ -31,7 +31,4 @@ Wherever you are in your faith journey, we would love for you to join us in lear
 
 > "It must be emphasized that the most precious result of the forgiveness obtained in the Sacrament of Penance consists in reconciliation with God."
 >
-> \
->
->
 > Pope John Paul II
