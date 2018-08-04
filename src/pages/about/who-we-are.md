@@ -9,14 +9,4 @@ Augie Catholic is your community of faith. It is the place where you experience 
 
 > It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you. 
 >
-> \
->
->
->
->
-> \
->
->
 > Pope John Paul II
->
->
