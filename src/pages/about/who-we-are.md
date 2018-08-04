@@ -1,7 +1,7 @@
 ---
 template: page
 title: Who We Are?
-centerImages: true
+centerImages: false
 ---
 ![null](/assets/appalachia_trip.jpg)
 
