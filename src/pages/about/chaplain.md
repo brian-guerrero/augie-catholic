@@ -3,7 +3,6 @@ template: page
 title: Chaplain
 centerImages: false
 ---
-
 ![Father Freehill](/assets/father_freehill.jpg)
 
 ### Father Jeremy Freehill
@@ -17,3 +16,5 @@ One of four children, he grew up in Tremont, IL. He graduated from Saint Mary’
 He was ordained a priest of Jesus Christ on May 25, 2013 and began his priestly service within the Church at Saint Pius X Parish in Rock Island and Jordan Catholic School.
 
 He also spent a number of years as chaplain of Alleman Catholic High School in Rock Island from 2014-2018.
+
+> A vocation is not the result of a miraculous or extraordinary call, but rather the blossoming of a Christian soul that is attached to its Creator and Savior Jesus Christ by an exclusive love and shares His thirst to save souls.
