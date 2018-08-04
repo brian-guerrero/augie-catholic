@@ -28,3 +28,10 @@ RCIA is a process for non-Catholics who would like to become Catholic, Catholics
 This time of preparation is focused on helping you to know, love, and serve Jesus Christ within the Catholic Church.
 
 Wherever you are in your faith journey, we would love for you to join us in learning more about Catholicism. For more information, please email Father Jeremy at <mailto:jeremyfreehill@augustana.edu>.
+
+> "It must be emphasized that the most precious result of the forgiveness obtained in the Sacrament of Penance consists in reconciliation with God."
+>
+> \
+>
+>
+> Pope John Paul II
