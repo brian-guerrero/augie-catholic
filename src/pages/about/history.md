@@ -3,7 +3,6 @@ template: page
 title: History
 centerImages: true
 ---
-
 ![Pictured: Father Jim Wheeler OFM--Augustana Catholic Chaplain from 1988-1995](/assets/father_wheeler.jpg)
 
 Augustana College was founded in 1860 within the Swedish-Lutheran tradition and in 1966 still had a Lutheran enrollment at 60% of the student body.
@@ -20,6 +19,6 @@ Today, Augie Catholic Ministry operates independently and collaboratively on the
 
 He joined the campus community in 2016.
 
-> It is Jesus that you seek when you dream of happiness; He is waiting for you when nothing else you find satisfies you.
+> "The way to reach Christ is not hard to find: it is the Church." 
 >
-> Pope John Paul II
+> Pope Pius X
