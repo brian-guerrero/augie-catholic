@@ -13,6 +13,8 @@ centerImages: true
 
 Ascension Chapel of Founder's Hall
 
+If you are interested in being a lector, please email Father Jeremy at jeremyfreehill@augustana.edu.
+
 ### Sacred Music Ministry
 
 Emily Christensen is our Sacred Music Director. It is her role to coordinate the music each week for Mass and to direct the choir. 
