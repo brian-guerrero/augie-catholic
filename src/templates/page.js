@@ -2,9 +2,12 @@ import React from 'react'
 
 export const PageTemplate = ({ title, content, centerImages }) => (
   <section className="section">
-    <div className={'container' + (centerImages ? '.center-images' : '')}>
+    <div className="container">
       <h2 className="title is-2">{title}</h2>
-      <div className="content" dangerouslySetInnerHTML={{ __html: content }} />
+      <div
+        className={'content' + (centerImages ? ' center-images' : '')}
+        dangerouslySetInnerHTML={{ __html: content }}
+      />
     </div>
   </section>
 )
