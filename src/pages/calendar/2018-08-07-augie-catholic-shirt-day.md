@@ -1,6 +1,6 @@
 ---
 template: event
-title: Augie Catholic Shirt Day
+title: Augie Catholic T-Shirt Day
 date: Sep 5th 2018
 startTime: '12:00AM'
 endTime: '11:59PM'
