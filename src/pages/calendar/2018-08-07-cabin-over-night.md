@@ -8,7 +8,7 @@ location: Camp Loud Thunder in Illinois City
 ---
 
 
-We will meet at 5:00PM at Ascension Chapel to depart for the cabin at Camp Loud Thunder in Illinois City. 
+We will meet at 5:00PM at Founder's Circle to depart for the cabin at Camp Loud Thunder in Illinois City. 
 
 Each cabin has a capacity for 20 students and is equipped with electricity. We will have opporuntities to chill by a camp fire, hike, canoe, and kayak. 
 
