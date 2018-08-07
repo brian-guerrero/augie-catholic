@@ -1,6 +1,6 @@
 ---
 template: event
-title: Cabin Over-Night
+title: Cabin Over-Night Fellowship
 date: Sep 14th 2018
 startTime: '5:00PM '
 endTime: '5:00PM Saturday '
