@@ -2,7 +2,7 @@
 template: event
 title: Cabin Over-Night
 date: Sep 14th 2018
-startTime: '5:00PM Friday'
+startTime: '5:00PM '
 endTime: '5:00PM Saturday '
 location: Camp Loud Thunder in Illinois City
 ---
