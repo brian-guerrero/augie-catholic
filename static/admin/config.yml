@@ -14,7 +14,7 @@ collections:
     fields:
       - {label: "Template", name: "template", widget: "hidden", default: "event"}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date", default: "", format: "MMM Do YYYY"}
+      - {label: "Date", name: "date", widget: "date", default: "", format: "YYYY-MM-DD"}
       - {label: "Start Time", name: "startTime", widget: "string", default: ""}
       - {label: "End Time", name: "endTime", widget: "string", default: ""}
       - {label: "Location", name: "location", widget: "text"}

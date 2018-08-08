@@ -1,7 +1,7 @@
 ---
 template: event
 title: Augie Catholic T-Shirt Day
-date: Sep 5th 2018
+date: 2018-09-05
 startTime: '12:00AM'
 endTime: '11:59PM'
 location: Augustana College
