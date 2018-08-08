@@ -3,7 +3,7 @@ template: event
 title: Cabin Over-Night Fellowship
 date: 2018-09-14T00:00:00.000Z
 startTime: '5:00PM '
-endTime: 'Saturday at 5:00PM '
+endTime: 'Saturday by 5:00PM '
 location: Camp Loud Thunder in Illinois City
 ---
 
