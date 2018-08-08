@@ -3,7 +3,7 @@ template: event
 title: Chicago Mission Trip
 date: '2018-09-29'
 startTime: '11:00AM'
-endTime: 'September 30th--4:00PM '
+endTime: 'September 30th—4:00PM '
 location: 'Missionaries of Charity in Chicago, IL'
 ---
 
