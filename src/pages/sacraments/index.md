@@ -3,7 +3,7 @@ template: page
 title: Sacraments
 centerImages: true
 ---
-![Join us for the sacraments.](/assets/sacraments.jpg)
+![Join us for the sacraments.](/assets/ascensionwindow_cropped.jpg)
 
 ### Sacraments
 
