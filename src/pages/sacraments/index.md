@@ -19,7 +19,7 @@ Room 213 of Founder's Hall
 
 10:00AM-12:00PM
 
-Room 112 of Founder's Hall
+Room 213 of Founder's Hall
 
 #### RCIA (Rite of Christian Initiation for Adults)
 
