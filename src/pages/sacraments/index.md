@@ -13,7 +13,7 @@ centerImages: true
 
 8:00-8:45PM
 
-Room 112 of Founder's Hall
+Room 113 of Founder's Hall
 
 **Thursdays:** 
 
