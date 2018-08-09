@@ -3,7 +3,7 @@ template: page
 title: Holy Mass
 centerImages: true
 ---
-![Join us for mass!](/assets/mass.jpg)
+![Join us for mass!](/assets/ryancropped_sm.jpg)
 
 ### Mass Times
 
