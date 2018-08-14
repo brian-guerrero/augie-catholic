@@ -5,7 +5,7 @@ centerImages: true
 ---
 ![Pictured: Father Jim Wheeler OFM--Augustana Catholic Chaplain from 1988-1995](/assets/father_wheeler.jpg)
 
-Augustana College was founded in 1860 within the Swedish-Lutheran tradition and in 1966 still had a Lutheran enrollment at 60% of the student body.
+Augustana College was founded in 1860 within the Lutheran tradition and in 1966 still had a Lutheran enrollment at 60% of the student body.
 
 But by 1982, only 30% of Augustana students belonged to the Lutheran congregation with an equal percentage of students belonging to the Catholic Church.
 
