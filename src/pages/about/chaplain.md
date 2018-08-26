@@ -3,7 +3,9 @@ template: page
 title: Chaplain
 centerImages: false
 ---
-![](/assets/smallpic.jpg)
+![](/assets/img_3849.jpg)
+
+![null]()
 
 ### Father Jeremy Freehill
 
