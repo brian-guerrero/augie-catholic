@@ -1,12 +1,11 @@
 ---
 template: event
-title: Chicago Mission Trip
-date: '2018-09-29'
-startTime: '11:00AM'
-endTime: 'September 30th—4:00PM '
-location: 'Missionaries of Charity in Chicago, IL'
+title: Winter Over-Night Retreat
+date: '2019-01-11'
+startTime: '5:00PM'
+endTime: 'January 12th—5:00PM '
+location: 'Community of Saint John, Princeville IL'
 ---
+Join fellow Augie students on our first ever overnight retreat with the brothers and sisters of the Community of Saint John. It will be an incredible experience shared with fellow students. 
 
-Join fellow Augie students on an incredible trip working side by side with the Missionaries of Charity on the South-West Side of Chicago.
-
-![null](/assets/mc-chicago.jpg)
+Student led talks, social time, and participating in the monastic life of the community will form our time together in beautiful rural Princeville.
