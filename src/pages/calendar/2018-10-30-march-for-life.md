@@ -12,4 +12,4 @@ The January date is chosen to coincide with the sad anniversary of Roe Vs Wade a
 
 You can join this trip for just $200 which covers transportation (charter bus) and hotel lodging cost.
 
-Checks should be made payable to Iowans for Life and sent to Fr. Jeremy Freehill at Augustana College with Attn: Campus Ministries.
+Checks should be made payable to Iowans for Life and sent to Fr. Jeremy Freehill by November 18th at Augustana College with Attn: Campus Ministries.
