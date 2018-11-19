@@ -12,4 +12,6 @@ Bishop Perry of the Archdiocese of Chicago will be on campus to offer the Holy S
 
 You are invited to come to this special Mass offered by a successor of an apostle and welcome him to Augustana.
 
-Bishop Perry was ordained a bishop to serve within the archdiocese in 1998.
+Bishop Perry was ordained a bishop to serve within the archdiocese in 1998. 
+
+It is believed this will be the first time a bishop has said Mass here at the college.
