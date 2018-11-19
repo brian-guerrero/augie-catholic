@@ -10,4 +10,6 @@ location: Ascension Chapel of Founder's Hall
 
 Bishop Perry of the Archdiocese of Chicago will be on campus to offer the Holy Sacrifice of the Mass for students and to meet with students afterwards during a social hour.
 
-I invite you all to come to this special Mass offered by a successor of an apostle and to welcome him to Augustana.
+You are invited to come to this special Mass offered by a successor of an apostle and welcome him to Augustana.
+
+Bishop Perry was ordained a bishop to serve within the archdiocese in 1998.
