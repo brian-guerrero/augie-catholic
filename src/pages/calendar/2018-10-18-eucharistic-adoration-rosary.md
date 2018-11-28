@@ -1,7 +1,7 @@
 ---
 template: event
 title: 'Eucharistic Adoration & Rosary '
-date: '2018-11-20'
+date: '2018-12-04'
 startTime: '9:00PM'
 endTime: '9:30PM'
 location: Ascension Chapel of Founder's Hall
