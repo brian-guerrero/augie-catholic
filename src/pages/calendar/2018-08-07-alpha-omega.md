@@ -1,7 +1,7 @@
 ---
 template: event
 title: Alpha-Omega
-date: '2019-01-17'
+date: '2019-01-10'
 startTime: '7:00PM'
 endTime: '7:45PM'
 location: Ascension Chapel of Founder's Hall
