@@ -1,7 +1,7 @@
 ---
 template: event
 title: Daily Mass
-date: '2019-01-08'
+date: '2019-01-15'
 startTime: '6:00PM'
 endTime: '6:30PM'
 location: Ascension Chapel of Founder's Hall
