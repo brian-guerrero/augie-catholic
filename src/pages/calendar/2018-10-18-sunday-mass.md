@@ -1,7 +1,7 @@
 ---
 template: event
 title: Sunday Mass
-date: '2019-01-20'
+date: '2019-01-27'
 startTime: '9:00PM'
 endTime: '10:00PM'
 location: Ascension Chapel of Founder's Hall
