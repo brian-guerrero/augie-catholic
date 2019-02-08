@@ -5,7 +5,7 @@ centerImages: false
 ---
 ### Chicago Mission Trips
 
-![Chicago Mission Trip](/assets/chicagotrip2018.jpg)
+![](/assets/img_1981.jpg)
 
 ### Appalachia Spring Break Trip
 
