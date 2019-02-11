@@ -3,7 +3,7 @@ template: event
 title: Appalachia Mission Trip
 date: '2019-02-17'
 startTime: '6:00AM'
-endTime: February 24th at Noon
+endTime: 'February 24th '
 location: 'Frakes, KY'
 ---
 ![]()
