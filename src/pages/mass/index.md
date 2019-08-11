@@ -7,13 +7,7 @@ centerImages: true
 
 ### Mass Times
 
-**Sundays:** 9:00PM
-
-**Tuesdays:** 6:00PM
-
-Ascension Chapel of Founder's Hall
-
-If you are interested in being a lector or helping to set-up for Mass, please email Father Jeremy.
+**Sundays:** 8:00PM
 
 ### Sacred Music Ministry
 
