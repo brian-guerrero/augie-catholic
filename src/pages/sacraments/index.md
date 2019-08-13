@@ -9,9 +9,13 @@ centerImages: true
 
 #### Sacrament of Reconciliation
 
-**Sundays:** 
+**Mondays: **
 
-8:00-8:45PM
+7:00-8:00PM
+
+**Wednesdays:**
+
+11:15AM-12:15PM
 
 Room 213 of Founder's Hall
 
