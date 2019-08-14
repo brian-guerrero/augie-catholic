@@ -60,7 +60,7 @@ export const query = graphql`
   query EventsQuery {
     allMarkdownRemark(
       limit: 10
-      sort: { fields: [frontmatter___date], order: ASC }
+      sort: { fields: [fields___date], order: ASC }
       filter: { frontmatter: { template: { eq: "event" } } }
     ) {
       edges {
@@ -68,10 +68,10 @@ export const query = graphql`
           id
           fields {
             slug
+            date(formatString: "MMMM Do, YYYY")
           }
           frontmatter {
             title
-            date(formatString: "MMMM Do, YYYY")
             startTime
             endTime
             location
