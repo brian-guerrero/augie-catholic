@@ -43,7 +43,7 @@ const IndexPage = ({
       </section>
       <section className="section">
         <div className="container has-text-centered">
-          <h3 className="title">Text Alerts</h3>
+          <h3 className="title">Augie Catholic App</h3>
           <strong>
             <a href="https://apps.apple.com/us/app/augie-catholic/id1453737146">Download Augie Catholic on the App Store to stay up to date with the latest news!</a>
           </strong>
