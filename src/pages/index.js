@@ -60,7 +60,7 @@ export const query = graphql`
   query EventsQuery {
     allMarkdownRemark(
       limit: 10
-      sort: { fields: [fields___date], order: ASC }
+      sort: { fields: [date], order: ASC }
       filter: { frontmatter: { template: { eq: "event" } } }
     ) {
       edges {
