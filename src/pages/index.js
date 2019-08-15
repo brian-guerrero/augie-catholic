@@ -45,7 +45,8 @@ const IndexPage = ({
         <div className="container has-text-centered">
           <h3 className="title">Augie Catholic App</h3>
           <strong>
-            <a href="https://apps.apple.com/us/app/augie-catholic/id1453737146">Download Augie Catholic on the App Store to stay up to date with the latest news!</a>
+            Text Augie to 84576, and you will receive text alerts about upcoming
+            Augie Catholic events on campus.
           </strong>
         </div>
       </section>
