@@ -1,11 +1,7 @@
 import React from 'react'
-import UpcomingEvents from '../components/UpcomingEvents.js'
 import Carousel, { CarouselItem } from '../components/Carousel.js'
 
 const IndexPage = ({
-  data: {
-    allMarkdownRemark: { edges: events },
-  },
 }) => {
   return (
     <div>
@@ -45,40 +41,12 @@ const IndexPage = ({
         <div className="container has-text-centered">
           <h3 className="title">Augie Catholic App</h3>
           <strong>
-            Text Augie to 84576, and you will receive text alerts about upcoming
-            Augie Catholic events on campus.
+            <a href="https://apps.apple.com/us/app/augie-catholic/id1453737146">Download Augie Catholic from the App Store to recieve notifications.</a>
           </strong>
         </div>
       </section>
-      <UpcomingEvents events={events} />
     </div>
   )
 }
 
 export default IndexPage
-
-// sort: { fields: frontmatter___date, order: ASC }
-// date(formatString: "MMMM Do, YYYY")
-export const query = graphql`
-  query EventsQuery {
-    allMarkdownRemark(
-      limit: 10
-      filter: { frontmatter: { template: { eq: "event" } } }
-    ) {
-      edges {
-        node {
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            startTime
-            endTime
-            location
-          }
-        }
-      }
-    }
-  }
-`

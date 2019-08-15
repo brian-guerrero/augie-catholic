@@ -6,19 +6,19 @@ media_folder: static/assets
 public_folder: assets
 
 collections:
-  - name: "event"
-    label: "Events"
-    folder: "src/pages/calendar"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Template", name: "template", widget: "hidden", default: "event"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "date", default: "", format: "YYYY-MM-DD"}
-      - {label: "Start Time", name: "startTime", widget: "string", default: ""}
-      - {label: "End Time", name: "endTime", widget: "string", default: ""}
-      - {label: "Location", name: "location", widget: "text"}
-      - {label: "Description", name: "body", widget: "markdown"}
+  # - name: "event"
+  #   label: "Events"
+  #   folder: "src/pages/calendar"
+  #   create: true
+  #   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+  #   fields:
+  #     - {label: "Template", name: "template", widget: "hidden", default: "event"}
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - {label: "Date", name: "date", widget: "date", default: "", format: "YYYY-MM-DD"}
+  #     - {label: "Start Time", name: "startTime", widget: "string", default: ""}
+  #     - {label: "End Time", name: "endTime", widget: "string", default: ""}
+  #     - {label: "Location", name: "location", widget: "text"}
+  #     - {label: "Description", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     files:
