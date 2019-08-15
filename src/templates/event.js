@@ -34,6 +34,7 @@ const Event = ({ data: { markdownRemark: post } }) => (
 export default Event
       
 // fields: { slug: { eq: $slug } }
+// date(formatString: "MMMM Do, YYYY")
 export const query = graphql`
   query EventQuery($slug: String!) {
     markdownRemark(
@@ -42,7 +43,6 @@ export const query = graphql`
       html
       frontmatter {
         title
-        date(formatString: "MMMM Do, YYYY")
         startTime
         endTime
         location

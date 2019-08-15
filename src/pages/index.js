@@ -58,6 +58,7 @@ const IndexPage = ({
 export default IndexPage
 
 // sort: { fields: frontmatter___date, order: ASC }
+// date(formatString: "MMMM Do, YYYY")
 export const query = graphql`
   query EventsQuery {
     allMarkdownRemark(
@@ -69,7 +70,6 @@ export const query = graphql`
           id
           fields {
             slug
-            date(formatString: "MMMM Do, YYYY")
           }
           frontmatter {
             title

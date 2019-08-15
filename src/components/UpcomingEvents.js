@@ -35,6 +35,7 @@ export default ({ events }) => (
   </section>
 )
 
+// date
 export const query = graphql`
   fragment EventPostsFragment on MarkdownRemarkEdge {
     node {
@@ -44,7 +45,6 @@ export const query = graphql`
       }
       frontmatter {
         title
-        date
         startTime
         endTime
         location
