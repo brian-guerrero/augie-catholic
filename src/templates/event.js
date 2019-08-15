@@ -32,11 +32,11 @@ const Event = ({ data: { markdownRemark: post } }) => (
 )
 
 export default Event
-
+      
+// fields: { slug: { eq: $slug } }
 export const query = graphql`
   query EventQuery($slug: String!) {
     markdownRemark(
-      fields: { slug: { eq: $slug } }
       frontmatter: { template: { eq: "event" } }
     ) {
       html

@@ -57,11 +57,11 @@ const IndexPage = ({
 
 export default IndexPage
 
+// sort: { fields: frontmatter___date, order: ASC }
 export const query = graphql`
   query EventsQuery {
     allMarkdownRemark(
       limit: 10
-      sort: { fields: frontmatter___date, order: ASC }
       filter: { frontmatter: { template: { eq: "event" } } }
     ) {
       edges {
